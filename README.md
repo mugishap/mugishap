@@ -38,7 +38,7 @@ Github Skills
   
 <b>GitHub Statistics</b>
 
-<a href="http://www.github.com/mugishap"><img src="https://github-readme-stats.vercel.app/api?username=mugishap&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=f97316&hide_border=true&show_icons=true" alt="Mugisha Precieux's GitHub stats" /></a>
+<a href="http://www.github.com/mugishap"><img src="https://github-readme-stats.vercel.app/api?username=mugishap&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=white&bg_color=f97316&hide_border=true&show_icons=true" alt="Mugisha Precieux's GitHub stats" /></a>
 
 <a href="http://www.github.com/mugishap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mugishap&stroke=ffffff&background=f97316&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
