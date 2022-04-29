@@ -42,6 +42,6 @@ Skills
 
 <a href="http://www.github.com/mugishap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mugishap&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" /></a>
 
-<a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=fff&color=000&line=0075ff&point=fff&area_color=f97316&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=fff&color=000&line=0075ff&point=fff&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mugishap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishap&langs_count=20&title_color=0075ff&text_color=000&icon_color=ec4899&bg_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
