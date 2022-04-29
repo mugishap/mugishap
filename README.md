@@ -28,7 +28,7 @@ You can contact me through my social media accounts!!!
 <a style='margin-5px;' href="https://www.github.com/mugishap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </div>
 
-Github Skills
+Skills
 ================
 
 <p align="left">
@@ -38,10 +38,10 @@ Github Skills
   
 <b>GitHub Statistics</b>
 
-<a href="http://www.github.com/mugishap"><img src="https://github-readme-stats.vercel.app/api?username=mugishap&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=white&bg_color=f97316&hide_border=true&show_icons=true" alt="Mugisha Precieux's GitHub stats" /></a>
+<a href="http://www.github.com/mugishap"><img src="https://github-readme-stats.vercel.app/api?username=mugishap&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Mugisha Precieux's GitHub stats" /></a>
 
-<a href="http://www.github.com/mugishap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mugishap&stroke=ffffff&background=f97316&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mugishap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mugishap&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" /></a>
 
-<a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=f97316&color=ffffff&line=ec4899&point=ffffff&area_color=f97316&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=fff&color=000&line=0075ff&point=fff&area_color=f97316&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/mugishap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishap&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=f97316&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mugishap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishap&langs_count=20&title_color=0075ff&text_color=000&icon_color=ec4899&bg_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
