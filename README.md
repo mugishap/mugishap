@@ -50,6 +50,7 @@ Skills
   <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery" /></a>
     <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>
     <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery" /></a>
+      <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36" height="36" alt="jQuery" /></a>
 </p>
 
   
