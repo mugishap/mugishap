@@ -27,6 +27,10 @@ You can contact me through my social media accounts!!!
 <a style='margin-5px;' href="https://www.facebook.com/beni.precieux//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.github.com/mugishap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </div>
+<a style='margin-5px;' href="https://instagram.com/precieux_64" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="32" height="32" /></a>
+</div>
+
+
 
 For freelancing you can also contact me via
 ===========================================
