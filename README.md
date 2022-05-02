@@ -57,6 +57,9 @@ Skills
 
 <a href="http://www.github.com/mugishap"><img src="https://github-readme-stats.vercel.app/api?username=mugishap&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Mugisha Precieux's GitHub stats" /></a>
 
+  <a href="http://www.github.com/mugishap"><img src="https://github-profile-trophy.vercel.app/?username=mugishap" /></a>
+
+
 <a href="http://www.github.com/mugishap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mugishap&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" /></a>
 
 <a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
