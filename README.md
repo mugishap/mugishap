@@ -8,12 +8,13 @@ A Full stack web developer | UI x UX designer
 
 
 - 🔭 I’m currently working on <a href='https://github.com/mugishap/vidmiit' target='_blank'>Vidmiit</a><p></p>
+- 
 - 😉You can visit Vidmiit by clicking <a href='https://vidmiit.herokuapp.com'>here</a>
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
 - 📫 How to reach me: **preciexumugisha@gmail.com**
 - 😄 Pronouns: He
-- 🔬Interested about cybersecurity and data science
+- 🔬Interested about Cybersecurity, Data science and AI.
 - ⚡ Fun fact: **It’s all 0’s and 1’s**.
 
 
