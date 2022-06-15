@@ -7,7 +7,7 @@ I am MUGISHA Precieux
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 
-<p style='font-family:Pacifico;'>Buy me a coffee</p>
+<a href='https://www.buymeacoffee.com/mprecieux'><img src='https://res.cloudinary.com/precieux/image/upload/v1655296778/bmac_1_jzzfva.png' /></a>
 
 
 A Full stack web developer | UI x UX designer  
