@@ -14,8 +14,8 @@ A Full stack web developer | UI x UX designer
 ----------------------------------------------
 
 
-- 🔭 I’m currently working on <a href='https://github.com/mugishap/personapPortofolio' target='_blank'>My portofolio</a><p></p>
-- 😉You can visit My portofolio by clicking <a href='https://mprecieux.vercel.app/'>here</a>
+- 🔭 I’m currently working on <a href='https://github.com/mugishap/personapPortofolio' target='_blank'>Blix</a><p></p>
+- 😉You can visit Blix by clicking <a href='https://blix.vercel.app/'>here</a>
 - ✍️ Curenlty learning Vuejs
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
