@@ -14,7 +14,7 @@ A Full stack web developer | UI x UX designer
 ----------------------------------------------
 
 
-- 🔭 I’m currently working on <a href='https://github.com/mugishap/personapPortofolio' target='_blank'>Blix</a><p></p>
+- 🔭 I’m currently working on <a href='https://github.com/mugishap/blix-next-version' target='_blank'>Blix</a><p></p>
 - 😉You can visit Blix by clicking <a href='https://blix.vercel.app/'>here</a>
 - ✍️ Curenlty learning Vuejs
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
@@ -45,6 +45,14 @@ For freelancing you can also contact me via
 <a href='https://www.upwork.com/freelancers/~018ce85248c9f89cbd'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0NPSmDO7GdsUarwzcvlo4sAY0lSI2SeKWw&usqp=CAU' width=70 height=70></a>
 <a href='https://www.fiverr.com/precieux_m?up_rollout=true'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCJeNrfTUT1_nNjgcGHho49_PTLWb60xD0w&usqp=CAU' width=70 height=70></a>
 <a href='https://www.toptal.com/platform/talent/application_info/edit'><img width=70 height=70 src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStL2xQMf1uOSSc6pNvRmL_8a49hnIZVyGwFOtQyWJEMg&s'></a>
+
+Some of my works
+================
+<ul>
+  <li><a href='https://blix.vercel.app'>Blix</a></li>
+  <li><a href='https://mprecieux.vercel.app'>Portofolio</a></li>  
+  <li><a href='https://vidmiit.herokuapp.com'>Vidmiit</a></li>
+</ul>
 
 
 Skills
