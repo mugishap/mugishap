@@ -49,7 +49,7 @@ For freelancing you can also contact me via
 Some of my works
 ================
 <ul>
-  <li><a href='https://blix.vercel.app'>Blix</a></li>
+  <li><a href='https://blix.vercel.app'>Blix</a><p>(under construction)</p></li>
   <li><a href='https://mprecieux.vercel.app'>Portofolio</a></li>  
   <li><a href='https://vidmiit.herokuapp.com'>Vidmiit</a></li>
 </ul>
