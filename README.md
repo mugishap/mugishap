@@ -7,14 +7,13 @@ I am MUGISHA Precieux
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 
-<a href='https://www.buymeacoffee.com/mprecieux' style='text-align:center;width:100%;'><img style='text-align-center'  src='https://res.cloudinary.com/precieux/image/upload/v1655296778/bmac_1_jzzfva.png' width='30%' height='90px' /></a>
 
 
 A Full stack web developer | UI x UX designer  
 ----------------------------------------------
 
 
-- 🔭 I’m currently working on <a href='https://github.com/mugishap/blix-next-version' target='_blank'>Blix</a><p></p>
+- 🔭 I’m currently working on <a href='https://github.com/mugishap/blix-next-version' target='_blank'>Blix</a>
 - 😉You can visit Blix by clicking <a href='https://blix.vercel.app/'>here</a>
 - ✍️ Curenlty learning Vuejs
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
@@ -82,3 +81,6 @@ Skills
 <a href="http://www.github.com/mugishap"><img src="https://activity-graph.herokuapp.com/graph?username=mugishap&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mugishap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishap&langs_count=20&title_color=0075ff&text_color=000&icon_color=ec4899&bg_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+<a href='https://www.buymeacoffee.com/mprecieux' style='text-align:center;width:100%;'><img style='text-align-center'  src='https://res.cloudinary.com/precieux/image/upload/v1655296778/bmac_1_jzzfva.png' width='30%' height='90px' /></a>
+
