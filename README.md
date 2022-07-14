@@ -43,8 +43,9 @@ Some of my works
 ================
 <ul>
   <li><a href='https://blix.vercel.app'>Blix</a>(under construction)</li>
-  <li><a href='https://mprecieux.vercel.app'>Portofolio</a></li>  
+  <li><a href='https://mprecieux.vercel.app'>Portfolio</a></li>  
   <li><a href='https://vidmiit.herokuapp.com'>Vidmiit</a></li>
+   <li><a href='https://photo-rect-v.vercel.app'>Photocorner</a></li>
 </ul>
 
 For freelancing you can also contact me via
