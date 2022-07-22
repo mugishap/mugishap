@@ -14,7 +14,7 @@ A Full stack web developer | UI x UX designer
 
 
 - 🔭 I’m currently working on <a href='https://github.com/mugishap/reelhom3' target='_blank'>Reelhome</a>
-- 😉You can visit Hype by clicking <a href='https://reelhome.vercel.app/'>here</a>
+- 😉You can visit Reelhome by clicking <a href='https://reelhome.vercel.app/'>here</a>
 - ✍️ Curently learning Java
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
