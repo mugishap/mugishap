@@ -18,7 +18,7 @@ A Full stack web developer | UI x UX designer
 - ✍️ Curently learning Java
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
-- 📫 How to reach me: **preciexumugisha@gmail.com**
+- 📫 How to reach me: **precieuxmugisha@gmail.com**
 - 😄 Pronouns: He
 - 🔬Interested about Cybersecurity, Data science and AI.
 - ⚡ Fun fact: **It’s all 0’s and 1’s**.
