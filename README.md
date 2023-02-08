@@ -10,7 +10,6 @@ Feel free to run around in my repos, and code.
 Ask me anything related to **Springboot**, **NestJS**, ReactJS, VueJS, and anything more you'll need to know.
 
 And if you've got something to tell me, just click any of the links below.
-
 <div>
   <a href="https://www.instagram.com/precieux_64"><img src="https://user-images.githubusercontent.com/65293976/185198234-42fa10a5-826e-42d3-80d1-bbad7e550b7a.png" alt="instagram"></a>
   <a href="https://wa.me/250782307144"><img src="https://user-images.githubusercontent.com/65293976/185197546-c864739e-59d8-4386-94dc-28d447ffe8e1.png" alt="whatsapp"></a>
