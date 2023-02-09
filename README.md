@@ -7,7 +7,7 @@ Passionate **Software Developer**, currently based in Rwanda.
 
 Feel free to run around in my repos, and code.
 
-Ask me anything related to **Springboot**, **NestJS**, ReactJS, VueJS, and anything more you'll need to know.
+Ask me anything related to **Springboot**,**NodeJS**, NestJS, NextJS, ReactJS, VueJS, and anything more you'll need to know.
 
 And if you've got something to tell me, just click any of the links below.
 <div>
