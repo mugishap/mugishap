@@ -3,7 +3,7 @@
 I am Mugisha Precieux.
 ----------------------
 
-Passionate **Software Developer**, currently based in Rwanda.
+Passionate **Software Developer**, currently based in Rwanda.Check out my resume [here](https://bit.ly/precieux-resume)
 
 Feel free to run around in my repos, and code.
 
