@@ -14,9 +14,11 @@ And if you've got something to tell me, just click any of the links below.
 <div>
 Phone: +250782307144
 <br><br>
-LinkedIn: https://www.linkedin.com/in/mugishap
+LinkedIn: https://www.linkedin.com/in/mugishap/
 <br><br>
-Twitter: https://twitter.com/Pre_mugisha
+Portfolio: https://mugishap.vercel.app/
+ <br><br>
+Twitter: https://twitter.com/Pre_mugisha/
 </div>
 
 <br>
