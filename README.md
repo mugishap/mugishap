@@ -3,7 +3,7 @@
 I am Mugisha Precieux.
 ----------------------
 
-Passionate **Software Developer**.Check out my resume  <a target="_blank" href="https://bit.ly/precieux-resume">here</a>
+Passionate **Software Developer**.Check out my resume  <a target="_blank" href="https://docs.google.com/document/d/1duACLtZ3YyhuNgdadSEGwyehRkDEAzRDxmSrP_k9QOo/edit?usp=sharing">here</a>
 
 Feel free to run around in my repos, and code.
 
