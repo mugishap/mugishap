@@ -13,8 +13,10 @@ And if you've got something to tell me, just contact me via any of the links bel
 
 <div>
 Phone: +250782307144
+<br></div>br>
+Whatsapp: https://wa.me/250782307144
 <br><br>
 LinkedIn: https://www.linkedin.com/in/mugishap/
 <br><br>
-
+</div>
 Good day!
